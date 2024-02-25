@@ -1,1 +1,2 @@
 /build
+src/main/java/me/angeschossen/discordbridge/api/exceptions/LinkException.java
